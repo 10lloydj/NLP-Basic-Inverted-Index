@@ -6,9 +6,9 @@
  * in. 
  * 
  * The output of the program should look like this:
- * sometoken [file001, file002, ... ]
+ * sometoken [file001= tfidf, file002= tfidf, ... ]
  * 
- * @author Kristian Epps
+ * 
  */
 package uk.ac.man.cs.comp38211.exercise;
 
